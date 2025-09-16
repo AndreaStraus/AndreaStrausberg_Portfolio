@@ -1,0 +1,5 @@
+Project: $200k Agile Sprint
+Task 1: Planning - 5 days
+Task 2: Development - 10 days
+Task 3: Testing - 5 days
+Completed: 95% on-time (2023)
