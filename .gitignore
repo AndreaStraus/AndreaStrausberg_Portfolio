@@ -1,0 +1,6 @@
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore logs (if any)
+*.log
