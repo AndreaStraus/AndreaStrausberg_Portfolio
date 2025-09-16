@@ -1,0 +1,6 @@
+SELECT campaign_id, SUM(roi) as total_roi
+FROM marketing_data
+WHERE date >= '2023-01-01'
+GROUP BY campaign_id
+HAVING total_roi > 40
+ORDER BY total_roi DESC;
